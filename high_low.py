@@ -5,7 +5,7 @@ import random
 actual_number = random.randint(1, 100)
 value = random.randint(1, 15)
 
-def bruh():
+def main():
     x = actual_number - value
     print("your hint is:", x)
     question = input("Is the number higher lower or a jackpot")
@@ -27,12 +27,12 @@ def bruh():
     if question == "jackpot":
         print("You have chosen the jackpot")
         if actual_number == value:
-            print("you have the jakpot")
+            print("you have the jackpot")
         if actual_number < value:
             print("you lose the value was:", actual_number)
         if actual_number > value:
             print("you lose the value was:", actual_number)
 
 
-bruh()
+main()
 
