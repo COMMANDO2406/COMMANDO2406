@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Raghav Sethi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=commando2406&label=Profile%20views&color=0e75b6&style=flat" alt="commando2406" /> </p>
 
-- 🌱 I’m currently learning **JS, CSS, HTML, Node, React, MongoDB, Web3 and DApps**
+- 🌱 I’m currently learning **Node, React, MongoDB, Web3 and DApps**
 
 - 📫 How to reach me **raghavsethi.in@gmail.com**
 
